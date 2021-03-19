@@ -43,9 +43,15 @@ figcaption {
 }
 
 p {
-font-family: "PT Serif", serif;
+  font-family: "PT Serif", serif;
 }
 
+.quote {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-family: "PT Serif", serif;
+
+}
 a {
   text-decoration: none;
 }
