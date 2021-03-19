@@ -14,15 +14,28 @@ h1, h2 {
   font-size: 1.5rem;
 }
 
-img {
-  width: 100%;
-}
-
 li a {
   color: #8f2440;
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
+}
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+  font-family: "PT Serif", serif;
+  text-align: center;
+}
+
+.time {
+  font-size: 1.125rem;
+  font-weight: bold;
+  font-family: "PT Serif", serif;
 }
 
 a {
