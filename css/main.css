@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #c9b5ab;
   line-height: 1.5;
+  color: #222;
 }
 
 *, *::before, *::after {
@@ -50,8 +51,21 @@ p {
   font-size: 1.5rem;
   font-style: italic;
   font-family: "PT Serif", serif;
-
 }
+
+strong {
+  font-weight: normal;
+}
+
+.name {
+  font-size: .8rem;
+}
+
+ol li {
+  font-family: "PT Serif", serif;
+  list-style-type: lower-greek;
+}
+
 a {
   text-decoration: none;
 }
