@@ -77,9 +77,9 @@ dt {
 }
 
 dd {
-font-family: "PT Serif", serif;
-
+  font-family: "PT Serif", serif;
 }
+
 ul {
   list-style-type: circle;
   font-size: .8rem;
@@ -87,6 +87,11 @@ ul {
 }
 
 a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
   text-decoration: none;
 }
 
