@@ -21,12 +21,16 @@ li a {
   font-size: 1.125rem;
 }
 
+nav ol {
+  list-style: none;
+}
+
 img {
   width: 100%;
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-style: italic;
   font-family: "PT Serif", serif;
   text-align: center;
@@ -36,6 +40,10 @@ figcaption {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: "PT Serif", serif;
+}
+
+p {
+font-family: "PT Serif", serif;
 }
 
 a {
