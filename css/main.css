@@ -9,11 +9,27 @@ html {
 }
 
 h1, h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
   font-size: 1.5rem;
 }
 
 img {
   width: 100%;
+}
+
+li a {
+  color: #8f2440;
+  text-decoration: none;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.125rem;
+}
+
+a {
+
+}
+
+footer a {
+  color: #8f2440;
+  text-decoration: none;
 }
